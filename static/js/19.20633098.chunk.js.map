@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/NotFound/index.tsx"],"names":["NotFound"],"mappings":"+FAAA,0DAEe,SAASA,IACtB,OAAO","file":"static/js/19.20633098.chunk.js","sourcesContent":["import * as React from \"react\";\n\nexport default function NotFound() {\n  return <div>页面未找到</div>;\n}\n"],"sourceRoot":""}
