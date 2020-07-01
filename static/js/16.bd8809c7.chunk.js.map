@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/Public/InternalServerError/index.tsx"],"names":["InternalServerError"],"mappings":"+FAAA,0DAEe,SAASA,IACtB,OAAO","file":"static/js/16.bd8809c7.chunk.js","sourcesContent":["import * as React from \"react\";\n\nexport default function InternalServerError() {\n  return <div>服务器繁忙</div>;\n}\n"],"sourceRoot":""}
