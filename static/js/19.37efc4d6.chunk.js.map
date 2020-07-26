@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/public/Forbidden/index.tsx"],"names":["Forbidden"],"mappings":"+FAAA,0DAEe,SAASA,IACtB,OAAO","file":"static/js/19.37efc4d6.chunk.js","sourcesContent":["import * as React from \"react\";\n\nexport default function Forbidden() {\n  return <div>禁止访问</div>;\n}\n"],"sourceRoot":""}
