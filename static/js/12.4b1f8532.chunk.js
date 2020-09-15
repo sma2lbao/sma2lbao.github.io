@@ -1,0 +1,2 @@
+(this.webpackJsonpmiss=this.webpackJsonpmiss||[]).push([[12],{574:function(e,t,n){"use strict";n.r(t);var l=n(0),c=n(74),i=Object(c.d)(c.a);t.default=function(){return l.createElement("div",null,l.createElement("div",null,l.createElement(i,{title:"title",cover:"cover",onDelete:function(){console.log("delete")}})))}}}]);
+//# sourceMappingURL=12.4b1f8532.chunk.js.map
