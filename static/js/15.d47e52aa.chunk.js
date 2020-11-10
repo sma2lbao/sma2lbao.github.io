@@ -1,0 +1,2 @@
+(this.webpackJsonpmiss=this.webpackJsonpmiss||[]).push([[15],{613:function(e,t,s){"use strict";s.r(t);var i=s(0),a=s(78);t.default=function(){return i.createElement("div",{style:{width:300}},i.createElement(a.b,{aspectRatio:16/9,src:"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1599499118148&di=5c0774cf80d4e177da28a0e178fe05a9&imgtype=0&src=http%3A%2F%2Fimg.ewebweb.com%2Fuploads%2F20191006%2F18%2F1570356488-vKNlgYMhGu.jpg"}))}}}]);
+//# sourceMappingURL=15.d47e52aa.chunk.js.map
