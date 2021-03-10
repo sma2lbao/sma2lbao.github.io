@@ -4,8 +4,8 @@
     "npm.@material-ui.js.map": "/static/js/npm.@material-ui.37cfc243.chunk.js.map",
     "npm.react-player.js": "/static/js/npm.react-player.660df6c7.chunk.js",
     "npm.react-player.js.map": "/static/js/npm.react-player.660df6c7.chunk.js.map",
-    "main.js": "/static/js/main.7dfc7abd.chunk.js",
-    "main.js.map": "/static/js/main.7dfc7abd.chunk.js.map",
+    "main.js": "/static/js/main.199f0022.chunk.js",
+    "main.js.map": "/static/js/main.199f0022.chunk.js.map",
     "npm.@apollo.js": "/static/js/npm.@apollo.bdc6d388.chunk.js",
     "npm.@apollo.js.map": "/static/js/npm.@apollo.bdc6d388.chunk.js.map",
     "npm.@firebase.js": "/static/js/npm.@firebase.07d87080.chunk.js",
@@ -54,7 +54,7 @@
     "static/js/25.3545e555.chunk.js": "/static/js/25.3545e555.chunk.js",
     "static/js/25.3545e555.chunk.js.map": "/static/js/25.3545e555.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9259a0ee03d9f6be323e098a5abfbf6c.js": "/precache-manifest.9259a0ee03d9f6be323e098a5abfbf6c.js",
+    "precache-manifest.4b471dfd471a1b452b40ebc43c01aeb1.js": "/precache-manifest.4b471dfd471a1b452b40ebc43c01aeb1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/9.e3cf4cf6.chunk.css.map": "/static/css/9.e3cf4cf6.chunk.css.map"
   },
@@ -67,6 +67,6 @@
     "static/js/npm.@firebase.07d87080.chunk.js",
     "static/js/npm.react-dom.3936e962.chunk.js",
     "static/js/10.f2850125.chunk.js",
-    "static/js/main.7dfc7abd.chunk.js"
+    "static/js/main.199f0022.chunk.js"
   ]
 }
